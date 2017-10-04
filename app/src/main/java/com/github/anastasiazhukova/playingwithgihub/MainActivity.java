@@ -53,4 +53,9 @@ public class MainActivity extends AppCompatActivity {
         //Another example of rebasing
     }
     //Here is my one more commit
+
+    public void TryStash()
+    {
+        //Now I'm trying stash. I'll be back :)
+    }
 }
