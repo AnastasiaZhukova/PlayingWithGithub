@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Playing With Gihub</string>
+    <string name="title_activity_branch2">Branch2Activity</string>
 </resources>
