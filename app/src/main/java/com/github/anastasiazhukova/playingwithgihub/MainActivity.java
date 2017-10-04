@@ -15,4 +15,9 @@ public class MainActivity extends AppCompatActivity {
     {
         //Creating new method from master Branch
     }
+
+    public void FeatureOne()
+    {
+        //Creating new method from Feature1 branch
+    }
 }
