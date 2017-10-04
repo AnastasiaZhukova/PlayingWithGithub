@@ -36,4 +36,9 @@ public class MainActivity extends AppCompatActivity {
         //I've also created new Activity
         //Creating new method from Feature3 branch
     }
+
+    public void CherryPick()
+    {
+
+    }
 }
