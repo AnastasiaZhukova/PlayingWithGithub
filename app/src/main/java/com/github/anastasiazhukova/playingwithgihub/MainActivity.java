@@ -47,5 +47,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //I'll make one more commit before rebasing
+
+    public void Rebase()
+    {
+        //Another example of rebasing
+    }
     //Here is my one more commit
 }
