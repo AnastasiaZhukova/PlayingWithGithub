@@ -40,5 +40,6 @@ public class MainActivity extends AppCompatActivity {
     public void CherryPick()
     {
         //I'm CherryPick. I'll pick some useful methods
+        //Useful comment
     }
 }
