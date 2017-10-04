@@ -45,4 +45,6 @@ public class MainActivity extends AppCompatActivity {
 
         //Now I'm going to rebase to master branch
     }
+
+    //I'll make one more commit before rebasing
 }
