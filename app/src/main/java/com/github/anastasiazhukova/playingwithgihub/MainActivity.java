@@ -13,19 +13,23 @@ public class MainActivity extends AppCompatActivity {
 
     public void SomeMethod()
     {
+        //I'm Branch1 and I simply added some changes
         //Creating new method from master Branch
     }
 
     public void FeatureOne()
     {
+        //I'm Branch1 and I simply added some changes
         //Creating new method from Feature1 branch
     }
     public void FeatureTwo()
     {
+        //I'm Branch1 and I simply added some changes
         //Creating new method from Feature2 branch
     }
     public void FeatureThree()
     {
+        //I'm Branch1 and I simply added some changes
         //Creating new method from Feature3 branch
     }
 }
