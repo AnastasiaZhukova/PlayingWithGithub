@@ -10,4 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void SomeMethod()
+    {
+        //Creating new method from master Branch
+    }
 }
