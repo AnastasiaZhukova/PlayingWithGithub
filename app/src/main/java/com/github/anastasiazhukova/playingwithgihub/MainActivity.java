@@ -20,6 +20,10 @@ public class MainActivity extends AppCompatActivity {
     {
         //Creating new method from Feature1 branch
     }
+    public void FeatureTwo()
+    {
+        //Creating new method from Feature2 branch
+    }
     public void FeatureThree()
     {
         //Creating new method from Feature3 branch
