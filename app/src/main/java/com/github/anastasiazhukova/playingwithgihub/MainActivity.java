@@ -20,8 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void FeatureOne()
     {
-        //I'm Branch2 and I'm making a change in all methodss
-        //I've also created new Activity
+        //I'm Branch1 and I simply added some changes
         //Creating new method from Feature1 branch
     }
     public void FeatureTwo()
@@ -32,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void FeatureThree()
     {
+        //I'm Branch1 and I simply added some changes
         //I'm Branch2 and I'm making a change in all methods
         //I've also created new Activity
         //Creating new method from Feature3 branch
